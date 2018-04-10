@@ -6,4 +6,6 @@ def my_collect(words)
     yield collection << words[i]
     i += 1
   end 
+  
+  collection
 end
