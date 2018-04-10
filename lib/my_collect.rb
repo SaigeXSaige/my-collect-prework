@@ -7,5 +7,5 @@ def my_collect(words)
     i += 1
   end 
   
-  collection
+  
 end
